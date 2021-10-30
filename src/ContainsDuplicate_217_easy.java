@@ -1,3 +1,8 @@
+//problem URL: https://leetcode.com/problems/contains-duplicate/
+//author @ram
+//replace main class with Solution
+
+
 public class ContainsDuplicate_217_easy {
     public boolean containsDuplicate(int[] nums) {
         Arrays.sort(nums);
